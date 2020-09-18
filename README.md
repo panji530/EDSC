@@ -8,4 +8,4 @@ Ji, P., Salzmann, M., Li, H.: Efficient dense subspace clustering. In:  IEEE WAC
 
 3. To test the code on Extended YaleB, please run the file run_YaleFaces.m .
 
-4. If you have any question regarding the code, please contact Pan Ji at peterji1990@gmail.com .
+4. If you have any question regarding the code, please contact Pan Ji at peterji530@gmail.com .
